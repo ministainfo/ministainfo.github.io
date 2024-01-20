@@ -5,52 +5,62 @@
 <url>
   <loc>https://ministud.pro/</loc>
   <priority>1.0</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
+  <lastmod>2024-01-20T11:14:58+09:00</lastmod>
 </url>
 <url>
   <loc>https://ministud.pro/index.html</loc>
   <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/about2.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/course2.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/faq.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
+  <lastmod>2024-01-20T11:14:58+09:00</lastmod>
 </url>
 <url>
   <loc>https://ministud.pro/contact.html</loc>
   <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
+  <lastmod>2024-01-20T11:14:58+09:00</lastmod>
 </url>
 <url>
-  <loc>https://ministud.pro/course-high.html</loc>
+  <loc>https://ministud.pro/about2.html</loc>
   <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/course-middle.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/course-elementary.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
+  <lastmod>2024-01-20T11:14:58+09:00</lastmod>
 </url>
 <url>
   <loc>https://ministud.pro/white_paper.pdf</loc>
   <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
+  <lastmod>2024-01-20T11:14:58+09:00</lastmod>
+</url>
+<url>
+  <loc>https://ministud.pro/course-elementary.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-01-20T11:14:58+09:00</lastmod>
+</url>
+<url>
+  <loc>https://ministud.pro/course-middle.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-01-20T11:14:58+09:00</lastmod>
+</url>
+<url>
+  <loc>https://ministud.pro/course-high.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-01-20T11:14:58+09:00</lastmod>
+</url>
+<url>
+  <loc>https://ministud.pro/course2.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-01-20T11:14:58+09:00</lastmod>
+</url>
+<url>
+  <loc>https://ministud.pro/faq.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-01-20T11:14:58+09:00</lastmod>
+</url>
+<url>
+  <loc>https://ministud.pro/faq2.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-01-20T11:14:58+09:00</lastmod>
+</url>
+<url>
+  <loc>https://ministud.pro/news-details.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-01-20T11:14:58+09:00</lastmod>
 </url>
 <url>
   <loc>https://ministud.pro/course.html</loc>
@@ -59,16 +69,11 @@
 <url>
   <loc>https://ministud.pro/course-details-a1.html</loc>
   <priority>0.7</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
+  <lastmod>2024-01-20T11:14:58+09:00</lastmod>
 </url>
 <url>
   <loc>https://ministud.pro/course-details.html</loc>
   <priority>0.7</priority>
-</url>
-<url>
-  <loc>https://ministud.pro/price.html</loc>
-  <priority>0.7</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
 </url>
 <url>
   <loc>https://ministud.pro/login.html</loc>
@@ -76,10 +81,6 @@
 </url>
 <url>
   <loc>https://ministud.pro/cart.html</loc>
-  <priority>0.6</priority>
-</url>
-<url>
-  <loc>https://ministud.pro/news-details.html</loc>
   <priority>0.6</priority>
 </url>
 <url>
