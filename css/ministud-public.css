@@ -244,7 +244,7 @@ body > #scroll { display: none !important; }
 .ms-how-action { display: flex; align-items: center; justify-content: center; gap: 18px; margin-top: 31px; }
 .ms-how-action > span { color: var(--ms-muted); font-size: 10px; font-weight: 600; }
 
-.ms-path-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
+.ms-path-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
 .ms-path-card {
   position: relative;
   min-height: 235px;
