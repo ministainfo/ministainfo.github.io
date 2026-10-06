@@ -1,129 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-
-<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
-<url>
-  <loc>https://ministud.pro/</loc>
-  <priority>1.0</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/about2.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/prep.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2024-08-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/about.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2024-04-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/index4.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/about2.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/course2.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/faq.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/contact.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/contact1.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2024-07-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/course-high.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/course-middle.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/course-elementary.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/white_paper.pdf</loc>
-  <priority>0.8</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/course.html</loc>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://ministud.pro/course-details-a1.html</loc>
-  <priority>0.7</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/course-details.html</loc>
-  <priority>0.7</priority>
-</url>
-<url>
-  <loc>https://ministud.pro/price.html</loc>
-  <priority>0.7</priority>
-  <lastmod>2024-01-12T17:20:38+09:00</lastmod>
-</url>
-<url>
-  <loc>https://ministud.pro/login.html</loc>
-  <priority>0.6</priority>
-</url>
-<url>
-  <loc>https://ministud.pro/cart.html</loc>
-  <priority>0.6</priority>
-</url>
-<url>
-  <loc>https://ministud.pro/news-details.html</loc>
-  <priority>0.6</priority>
-</url>
-<url>
-  <loc>https://ministud.pro/news-details1.html</loc>
-  <priority>0.6</priority>
-</url>
-<url>
-  <loc>https://ministud.pro/news-details12.html</loc>
-  <priority>0.6</priority>
-</url>
-<url>
-  <loc>https://ministud.pro/news-details13.html</loc>
-  <priority>0.6</priority>
-</url>
-<url>
-  <loc>https://ministud.pro/news.html</loc>
-  <priority>0.6</priority>
-</url>
-<url>
-  <loc>https://ministud.pro/about.html</loc>
-  <priority>0.6</priority>
-</url>
-<url>
-  <loc>https://ministud.pro/summer_school.html</loc>
-  <priority>0.6</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://ministud.pro/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/about2.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/about.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/course2.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/course-high.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/course-middle.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/course-elementary.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/prep.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/price.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/faq.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/parents.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/contact.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/web_test1a.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/news.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/news-details.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/news-details1.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/news-details11.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/news-details12.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/news-details13.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/privacy.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/terms.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
 </urlset>
