@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MINISTUD 受験ニュース・記事</title>
+    <link>https://ministud.pro/articles/</link>
+    <atom:link href="https://ministud.pro/articles/feed.xml" rel="self" type="application/rss+xml" />
+    <description>米国を中心とした海外大学受験の最新ニュースと解説</description>
+    <language>ja</language>
+    <item>
+      <title>高1から海外大学受験を始めたら？3年間の生活とSATスコアのモデルケース</title>
+      <link>https://ministud.pro/articles/model-case-high-school-1.html</link>
+      <guid isPermaLink="true">https://ministud.pro/articles/model-case-high-school-1.html</guid>
+      <description>高校1年生がMINISTUDで海外大学受験の準備を始めると、部活と両立した1日、高1〜高3のスケジュール、SATスコアの伸び方、面接でどんな受け答えができるようになるのか。架空の生徒のモデルケースで紹介します。</description>
+      <category>学年別モデルケース</category>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>高2から海外大学受験は間に合う？MINISTUDで始める1年半のモデルケース</title>
+      <link>https://ministud.pro/articles/model-case-high-school-2.html</link>
+      <guid isPermaLink="true">https://ministud.pro/articles/model-case-high-school-2.html</guid>
+      <description>高校2年生がMINISTUDで海外大学受験の準備を始めた場合の、平日・休日の過ごし方、出願までの1年半のスケジュール、SATスコアの伸び方、エッセイと面接の準備を、架空の生徒のモデルケースで具体的に紹介します。</description>
+      <category>学年別モデルケース</category>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>高3から海外大学受験に挑むには？出願までの半年間のモデルケース</title>
+      <link>https://ministud.pro/articles/model-case-high-school-3.html</link>
+      <guid isPermaLink="true">https://ministud.pro/articles/model-case-high-school-3.html</guid>
+      <description>高校3年生の春からMINISTUDで海外大学受験の仕上げに取り組んだ場合の、毎日の生活、出願までの半年間のスケジュール、SATスコアの伸び方、エッセイと面接の完成度を、架空の生徒のモデルケースで具体的に紹介します。</description>
+      <category>学年別モデルケース</category>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>中1から海外大学を目指すと？MINISTUDで始める6年間のモデルケース</title>
+      <link>https://ministud.pro/articles/model-case-junior-high-1.html</link>
+      <guid isPermaLink="true">https://ministud.pro/articles/model-case-junior-high-1.html</guid>
+      <description>中学1年生がMINISTUDで英語と海外大学受験の準備を始めたら、毎日の生活・1年間のスケジュール・高3までのSATスコアの目安・面接での話し方はどう変わるのか。架空の生徒のモデルケースで具体的に紹介します。</description>
+      <category>学年別モデルケース</category>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>中2から海外大学受験の準備を始めたら？生活とSATの伸び方モデルケース</title>
+      <link>https://ministud.pro/articles/model-case-junior-high-2.html</link>
+      <guid isPermaLink="true">https://ministud.pro/articles/model-case-junior-high-2.html</guid>
+      <description>中学2年生がMINISTUDで海外大学受験の準備を始めると、部活と両立した1日の過ごし方、中2〜高3のスケジュール、SATスコアの目安、面接での話し方はどう変わるのか。架空の生徒のモデルケースで紹介します。</description>
+      <category>学年別モデルケース</category>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>中3・高校受験と両立して海外大学を目指す｜MINISTUDのモデルケース</title>
+      <link>https://ministud.pro/articles/model-case-junior-high-3.html</link>
+      <guid isPermaLink="true">https://ministud.pro/articles/model-case-junior-high-3.html</guid>
+      <description>高校受験を控えた中学3年生が、MINISTUDで海外大学受験の準備を並行したら、生活やスケジュールはどうなるのか。受験期の調整、高3までのSATスコアの目安、面接での話し方を、架空の生徒のモデルケースで紹介します。</description>
+      <category>学年別モデルケース</category>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>アメリカ大学出願スケジュール完全ガイド｜日本の高校生は高1から何をする？</title>
+      <link>https://ministud.pro/articles/us-college-application-timeline.html</link>
+      <guid isPermaLink="true">https://ministud.pro/articles/us-college-application-timeline.html</guid>
+      <description>日本の高校からアメリカの大学を目指す人向けに、高1〜高3の準備と、Early Decision・Regular Decisionの締切、合格後のビザ手続きまでを時系列で解説します。</description>
+      <category>受験ガイド</category>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
