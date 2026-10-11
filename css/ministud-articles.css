@@ -147,3 +147,92 @@
   .ms-article-cta { padding: 26px 22px; }
   .ms-article-side, .ms-article-grid, .ms-article-grid.two { grid-template-columns: 1fr; }
 }
+
+/* 図解（blog の ```figure ブロック） */
+.ms-fig { margin: 1.8em 0; padding: 22px 24px; border: 1px solid var(--ms-border); border-radius: 18px; background: #fff; box-shadow: 0 10px 30px rgba(23, 52, 45, .06); line-height: 1.6; }
+.ms-fig-title { margin: 0 0 16px; color: var(--ms-green-dark); font-size: 13px; font-weight: 800; letter-spacing: .06em; }
+.ms-prose .ms-fig strong { background: none; }
+.ms-fig figcaption { margin-top: 14px; color: var(--ms-muted); font-size: 12px; }
+.ms-prose .ms-fig ul, .ms-prose .ms-fig ol { margin: 0; padding: 0; list-style: none; }
+.ms-prose .ms-fig li + li { margin-top: 0; }
+.ms-fig .k-study { background: var(--ms-green); }
+.ms-fig .k-school { background: #b9c9c4; }
+.ms-fig .k-club { background: #7cc6ff; }
+.ms-fig .k-homework { background: #ffd84d; }
+.ms-fig .k-life { background: #f2c4b3; }
+
+.ms-fig-profile-head { display: flex; align-items: center; gap: 14px; }
+.ms-fig-avatar { display: grid; place-items: center; width: 56px; height: 56px; border-radius: 50%; color: #fff; background: linear-gradient(135deg, var(--ms-green), #7b5cff); font-size: 24px; font-weight: 800; flex: none; }
+.ms-fig-profile-head b { display: block; font-size: 19px; }
+.ms-fig-profile-head div span { color: var(--ms-muted); font-size: 13px; }
+.ms-prose .ms-fig-tags { display: flex; flex-wrap: wrap; gap: 6px; margin: 14px 0 0; }
+.ms-fig-tags li { padding: 3px 10px; border-radius: 999px; color: var(--ms-green-dark); background: var(--ms-green-pale); font-size: 12px; font-weight: 700; }
+.ms-prose .ms-fig-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; margin-top: 16px; }
+.ms-fig-stats li { padding: 14px; border-radius: 14px; background: var(--ms-paper); }
+.ms-fig-stats span { display: block; color: var(--ms-muted); font-size: 12px; font-weight: 700; }
+.ms-fig-stats b { display: block; margin-top: 2px; color: var(--ms-ink); font-size: 22px; line-height: 1.3; letter-spacing: -.02em; }
+.ms-fig-stats small { display: block; margin-top: 4px; color: var(--ms-muted); font-size: 11px; line-height: 1.5; }
+
+.ms-fig-strip { position: relative; height: 30px; border-radius: 10px; background: #eef4f2; overflow: hidden; }
+.ms-fig-strip span { position: absolute; top: 0; bottom: 0; border-right: 2px solid #fff; }
+.ms-fig-hours { position: relative; height: 20px; margin-top: 4px; }
+.ms-fig-hours i { position: absolute; transform: translateX(-50%); color: var(--ms-muted); font-size: 11px; font-style: normal; white-space: nowrap; }
+.ms-fig-hours i:first-child, .ms-fig-axis i:first-child { transform: none; }
+.ms-fig-hours i:last-child, .ms-fig-axis i:last-child { transform: translateX(-100%); }
+.ms-prose .ms-fig-legend { display: flex; flex-wrap: wrap; gap: 6px 16px; margin-top: 8px; }
+.ms-fig-legend li { display: flex; align-items: center; gap: 6px; color: var(--ms-muted); font-size: 12px; }
+.ms-fig-legend i { width: 12px; height: 12px; border-radius: 4px; }
+.ms-fig-sub { margin: 18px 0 8px; font-size: 13px; }
+.ms-fig-sub b { color: var(--ms-green-dark); font-size: 16px; }
+.ms-fig-study li { display: grid; grid-template-columns: 52px minmax(0, 1fr) 30% 48px; align-items: center; gap: 10px; padding: 7px 0; border-top: 1px dashed var(--ms-border); font-size: 13.5px; }
+.ms-fig-study time { color: var(--ms-muted); font-size: 12px; font-weight: 700; }
+.ms-fig-study em { height: 10px; border-radius: 999px; background: #eef4f2; overflow: hidden; }
+.ms-fig-study em i { display: block; height: 100%; border-radius: 999px; background: var(--ms-green); }
+.ms-fig-study b { text-align: right; color: var(--ms-green-dark); }
+
+.ms-fig-score-rows li, .ms-fig-axis { display: grid; grid-template-columns: 150px minmax(0, 1fr) 96px; align-items: center; gap: 12px; }
+.ms-fig-score-rows li { padding: 9px 0; border-top: 1px dashed var(--ms-border); }
+.ms-fig-score-rows li:first-child { border-top: 0; }
+.ms-fig-score-when b { display: block; font-size: 13.5px; }
+.ms-fig-score-when small { display: block; color: var(--ms-muted); font-size: 11px; line-height: 1.4; }
+.ms-fig-track { position: relative; height: 14px; border-radius: 999px; background: repeating-linear-gradient(90deg, #eef4f2 0 calc(25% - 1px), #dceae5 calc(25% - 1px) 25%); }
+.ms-fig-band { position: absolute; top: 0; bottom: 0; border-radius: 999px; background: #8fd8bf; }
+.ms-fig-band.final { background: linear-gradient(90deg, var(--ms-green), #7b5cff); }
+.ms-fig-score-rows strong { text-align: right; font-size: 14px; white-space: nowrap; }
+.ms-fig-score-rows li.final strong { color: var(--ms-green-dark); font-size: 16px; }
+.ms-fig-axis div { position: relative; height: 16px; }
+.ms-fig-axis i { position: absolute; transform: translateX(-50%); color: var(--ms-muted); font-size: 10.5px; font-style: normal; white-space: nowrap; }
+
+.ms-fig-steps { position: relative; }
+.ms-fig-steps::before { content: ''; position: absolute; top: 14px; bottom: 14px; left: 14px; width: 2px; background: var(--ms-green-pale); }
+.ms-fig-steps li { position: relative; display: flex; gap: 14px; padding: 8px 0; }
+.ms-fig-dot { display: grid; place-items: center; width: 30px; height: 30px; border: 2px solid var(--ms-green); border-radius: 50%; color: var(--ms-green-dark); background: #fff; font-size: 13px; font-weight: 800; flex: none; z-index: 1; }
+.ms-fig-steps li.hl .ms-fig-dot { color: #fff; background: var(--ms-green); }
+.ms-fig-steps time { display: block; color: var(--ms-muted); font-size: 12px; font-weight: 700; }
+.ms-fig-steps b { display: block; font-size: 15px; }
+.ms-fig-steps small { display: block; color: var(--ms-green-dark); font-size: 12.5px; }
+.ms-fig-steps small::before { content: '到達の目安｜'; font-weight: 800; }
+
+.ms-fig-iv-grid { display: grid; grid-template-columns: minmax(0, 1fr) 28px minmax(0, 1fr); align-items: stretch; gap: 10px; }
+.ms-fig-iv { padding: 16px; border-radius: 14px; }
+.ms-fig-iv.before { background: #f6f3ee; }
+.ms-fig-iv.after { background: var(--ms-green-pale); }
+.ms-fig-iv-when { margin: 0 0 8px; font-size: 12px; font-weight: 800; color: var(--ms-muted); }
+.ms-fig-iv.after .ms-fig-iv-when { color: var(--ms-green-dark); }
+.ms-prose .ms-fig-iv blockquote { margin: 0 0 10px; padding: 0; border: 0; background: none; color: var(--ms-ink); font-size: 13.5px; line-height: 1.75; }
+.ms-fig-iv li { display: flex; gap: 6px; font-size: 12.5px; line-height: 1.6; }
+.ms-fig-iv li + li { margin-top: 4px; }
+.ms-fig-iv.before li i { color: #c0782e; font-style: normal; }
+.ms-fig-iv.after li i { color: var(--ms-green); font-style: normal; font-weight: 800; }
+.ms-fig-iv-arrow { align-self: center; color: var(--ms-green); font-size: 22px; font-weight: 800; text-align: center; }
+
+@media (max-width: 680px) {
+  .ms-fig { padding: 18px 16px; }
+  .ms-fig-score-rows li, .ms-fig-axis { grid-template-columns: minmax(0, 1fr) 84px; gap: 6px 10px; }
+  .ms-fig-score-when { grid-column: 1 / -1; }
+  .ms-fig-axis span:first-child { display: none; }
+  .ms-fig-study li { grid-template-columns: 46px minmax(0, 1fr) 44px; }
+  .ms-fig-study em { display: none; }
+  .ms-fig-iv-grid { grid-template-columns: 1fr; }
+  .ms-fig-iv-arrow { transform: rotate(90deg); }
+}
