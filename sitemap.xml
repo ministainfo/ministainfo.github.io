@@ -117,9 +117,21 @@
   <!-- articles:start (blog/ の npm run build が自動更新。手で編集しない) -->
   <url>
     <loc>https://ministud.pro/articles/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/articles/category/admissions-news.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/articles/category/financial-aid.html</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://ministud.pro/articles/category/guide.html</loc>
@@ -132,6 +144,18 @@
     <lastmod>2026-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/articles/ap-course-selection-admissions-impact.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/articles/college-living-cost-estimates-discrepancy.html</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://ministud.pro/articles/model-case-high-school-1.html</loc>
