@@ -117,7 +117,7 @@
   <!-- articles:start (blog/ の npm run build が自動更新。手で編集しない) -->
   <url>
     <loc>https://ministud.pro/articles/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -135,7 +135,7 @@
   </url>
   <url>
     <loc>https://ministud.pro/articles/category/visa.html</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -150,6 +150,12 @@
     <lastmod>2026-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://ministud.pro/articles/south-korea-student-visa-topik-incentives.html</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://ministud.pro/articles/australia-university-fees-2027-analysis.html</loc>
